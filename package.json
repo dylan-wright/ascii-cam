@@ -1,0 +1,23 @@
+{
+  "name": "ascii-cam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dylan-wright/ascii-cam.git"
+  },
+  "author": "dylan-wright",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dylan-wright/ascii-cam/issues"
+  },
+  "homepage": "https://github.com/dylan-wright/ascii-cam#readme",
+  "dependencies": {
+    "image-to-ascii": "^3.0.5"
+  }
+}
