@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/dylan-wright/ascii-cam#readme",
   "dependencies": {
-    "image-to-ascii": "^3.0.5"
+    "image-to-ascii": "^3.0.5",
+    "socket.io": "^1.7.3"
   }
 }
